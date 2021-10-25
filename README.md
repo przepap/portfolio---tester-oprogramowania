@@ -44,4 +44,5 @@ Jestem początkującym testerem oprogramowania. Szukam swoich pierwszych doświa
   - [Przycisk ODŚWIEŻ CAPTCHA - weryfikacja](https://docs.google.com/spreadsheets/d/1-R8Rkv6B7lDLhKzirCDpZJv9cP13py7n/edit?usp=sharing&ouid=103492161972503077195&rtpof=true&sd=true)
   
 - [Błędy zgłoszone w JIRA](https://docs.google.com/spreadsheets/d/1-JWttDBWdDaaIhE3_fqINyTFkqIIxJ99/edit?usp=sharing&ouid=103492161972503077195&rtpof=true&sd=true)
+- [Raport z testów](https://docs.google.com/document/d/1-JRZbkxs1cHfnCabU8OiNOuBGk4AxUDj/edit?usp=sharing&ouid=103492161972503077195&rtpof=true&sd=true)
 

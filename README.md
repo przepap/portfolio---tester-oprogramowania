@@ -1,6 +1,6 @@
 # Portfolio
 ## O mnie
-Jestem początkującym testerem oprogramowania. Szukam swoich pierwszych doświadczeń komercyjnych. Uczę się programowania.
+Mam na imię Przemek i jestem początkującym testerem oprogramowania. Szukam swoich pierwszych doświadczeń komercyjnych. Uczę się również programowania.
 ## Narzędzia
 - JIRA
 - MIRO

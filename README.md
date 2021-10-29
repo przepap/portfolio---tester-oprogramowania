@@ -22,14 +22,14 @@ Mam na imię Przemek i jestem początkującym testerem oprogramowania. Szukam sw
 - podstawy programowania (JavaScript, Python)
 
 ## Certyfikaty
-- Tester Oprogramowania - [Future Collars](https://futurecollars.com)
-- Podstawy programowania w języku Python - [Comarch Szkolenia](https://www.comarch.pl/szkolenia/)
+- [Tester Oprogramowania](https://drive.google.com/file/d/1-uw-2Y3MnANLWkw6Zx_Sdj_j8ndkza8H/view?usp=sharing) - [Future Collars](https://futurecollars.com)
+- [Podstawy programowania w języku Python](https://drive.google.com/file/d/1-pVPk1BPfFxIujBqnLAyArlSJU3VEdZG/view?usp=sharing) - [Comarch Szkolenia](https://www.comarch.pl/szkolenia/)
 
 ## Kursy
-- Programowanie w JavaScript
-- Wprowadzenie do Git i GitHub
-- Web Developer Bootcamp - Tworzenie Stron od zera do Mastera
-- Wprowadzenie do języka SQL dla Oracle
+- Programowanie w JavaScript - Udemy
+- Wprowadzenie do Git i GitHub - Udemy
+- Web Developer Bootcamp - Tworzenie Stron od zera do Mastera - Udemy
+- Wprowadzenie do języka SQL dla Oracle - Orange
 
 ## Moja dokumentacja testowa
 - [Scenariusze testowe dla projektu ze szkolenia](https://docs.google.com/spreadsheets/d/1-8yxOyBJ1LGnT36_0zFPZf6JONEwIovM/edit?usp=sharing&ouid=103492161972503077195&rtpof=true&sd=true)

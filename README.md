@@ -1,10 +1,10 @@
 # Portfolio
 ## O mnie
-Mam na imię Przemek i jestem początkującym testerem oprogramowania. Szukam swoich pierwszych doświadczeń komercyjnych. Uczę się również programowania.
+Mam na imię Przemek i jestem początkującym testerem oprogramowania. Uczę się automatyzowania testów w Cypress oraz programowania.
 ## Narzędzia
 - JIRA
 - MIRO
-- Git
+- Github
 - Visual Studio Code
 - iMacros
 

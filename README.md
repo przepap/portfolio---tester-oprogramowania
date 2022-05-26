@@ -15,7 +15,7 @@ Mam na imię Przemek i jestem początkującym testerem oprogramowania. Uczę si�
 - tworzenie dokumentacji
 - analiza
 - SCRUM
-- SQL
+- SQL [link do repozytorium](https://github.com/przepap/SQL)
 - DevTools
 - HTML
 - CSS
